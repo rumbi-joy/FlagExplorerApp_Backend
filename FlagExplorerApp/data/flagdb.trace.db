@@ -1,0 +1,33 @@
+2025-03-10 09:02:13.539421+02:00 jdbc[4]: exception
+org.h2.jdbc.JdbcSQLDataException: Value too long for column "TIMEZONES CHARACTER VARYING(255)": "'[Europe/Kaliningrad, Europe/Moscow, Europe/Simferopol, Europe/Volgograd, Europe... (415)"; SQL statement:
+/* insert for com.flag.explorer.app.model.Country */insert into country (alpha3,capital,dial_code,flag,geo,name,region,ti [22001-232]
+2025-03-10 09:02:13.539403+02:00 jdbc[12]: exception
+org.h2.jdbc.JdbcSQLDataException: Value too long for column "TIMEZONES CHARACTER VARYING(255)": "'[America/St_Johns, America/Halifax, America/Glace_Bay, America/Moncton, America... (534)"; SQL statement:
+/* insert for com.flag.explorer.app.model.Country */insert into country (alpha3,capital,dial_code,flag,geo,name,region,ti [22001-232]
+2025-03-10 09:02:13.547851+02:00 jdbc[5]: exception
+org.h2.jdbc.JdbcSQLDataException: Value too long for column "TIMEZONES CHARACTER VARYING(255)": "'[America/Argentina/Buenos_Aires, America/Argentina/Cordoba, America/Argentina/S... (335)"; SQL statement:
+/* insert for com.flag.explorer.app.model.Country */insert into country (alpha3,capital,dial_code,flag,geo,name,region,ti [22001-232]
+2025-03-11 01:37:50.915609+02:00 jdbc[7]: exception
+org.h2.jdbc.JdbcSQLDataException: Value too long for column "TIMEZONES CHARACTER VARYING(255)": "'[America/St_Johns, America/Halifax, America/Glace_Bay, America/Moncton, America... (534)"; SQL statement:
+/* insert for com.flag.explorer.app.model.Country */insert into country (alpha3,capital,dial_code,flag,geo,name,region,ti [22001-232]
+2025-03-11 01:37:50.931139+02:00 jdbc[5]: exception
+org.h2.jdbc.JdbcSQLDataException: Value too long for column "TIMEZONES CHARACTER VARYING(255)": "'[America/Argentina/Buenos_Aires, America/Argentina/Cordoba, America/Argentina/S... (335)"; SQL statement:
+/* insert for com.flag.explorer.app.model.Country */insert into country (alpha3,capital,dial_code,flag,geo,name,region,ti [22001-232]
+2025-03-11 01:37:50.936350+02:00 jdbc[12]: exception
+org.h2.jdbc.JdbcSQLDataException: Value too long for column "TIMEZONES CHARACTER VARYING(255)": "'[America/Noronha, America/Belem, America/Fortaleza, America/Recife, America/Ara... (286)"; SQL statement:
+/* insert for com.flag.explorer.app.model.Country */insert into country (alpha3,capital,dial_code,flag,geo,name,region,ti [22001-232]
+2025-03-11 01:37:50.943060+02:00 jdbc[9]: exception
+org.h2.jdbc.JdbcSQLDataException: Value too long for column "TIMEZONES CHARACTER VARYING(255)": "'[Europe/Kaliningrad, Europe/Moscow, Europe/Simferopol, Europe/Volgograd, Europe... (415)"; SQL statement:
+/* insert for com.flag.explorer.app.model.Country */insert into country (alpha3,capital,dial_code,flag,geo,name,region,ti [22001-232]
+2025-03-11 01:41:54.706739+02:00 jdbc[11]: exception
+org.h2.jdbc.JdbcSQLDataException: Value too long for column "TIMEZONES CHARACTER VARYING(255)": "'[America/St_Johns, America/Halifax, America/Glace_Bay, America/Moncton, America... (534)"; SQL statement:
+/* insert for com.flag.explorer.app.model.Country */insert into country (alpha3,capital,dial_code,flag,geo,name,region,ti [22001-232]
+2025-03-11 01:41:54.712075+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLDataException: Value too long for column "TIMEZONES CHARACTER VARYING(255)": "'[Europe/Kaliningrad, Europe/Moscow, Europe/Simferopol, Europe/Volgograd, Europe... (415)"; SQL statement:
+/* insert for com.flag.explorer.app.model.Country */insert into country (alpha3,capital,dial_code,flag,geo,name,region,ti [22001-232]
+2025-03-11 01:41:54.718633+02:00 jdbc[8]: exception
+org.h2.jdbc.JdbcSQLDataException: Value too long for column "TIMEZONES CHARACTER VARYING(255)": "'[America/Noronha, America/Belem, America/Fortaleza, America/Recife, America/Ara... (286)"; SQL statement:
+/* insert for com.flag.explorer.app.model.Country */insert into country (alpha3,capital,dial_code,flag,geo,name,region,ti [22001-232]
+2025-03-11 01:41:54.724818+02:00 jdbc[8]: exception
+org.h2.jdbc.JdbcSQLDataException: Value too long for column "TIMEZONES CHARACTER VARYING(255)": "'[America/Argentina/Buenos_Aires, America/Argentina/Cordoba, America/Argentina/S... (335)"; SQL statement:
+/* insert for com.flag.explorer.app.model.Country */insert into country (alpha3,capital,dial_code,flag,geo,name,region,ti [22001-232]
